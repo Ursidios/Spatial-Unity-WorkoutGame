@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5621e5ad1b9084f8bb66de8251cfd5a3, type: 3}
+  m_Name: Space_Feature_Demo
+  m_EditorClassIdentifier: 
+  version: 1
+  sku: 
+  packageName: Feature Demo
+  thumbnail: {fileID: 2800000, guid: ec6e61a8993a64290991cfc322ec43ea, type: 3}
+  savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
+    type: 2}
+  worldID: 
+  scene: {fileID: 102900000, guid: 5a4e4d605920f4afdbe35a0942b30555, type: 3}
+  csharpAssembly: {fileID: 5897886265953266890, guid: b03896a1eb80a4f489f771d3b48c11ac,
+    type: 3}
+  embeddedPackageAssets:
+  - id: Punch
+    asset: {fileID: 319796752021842016, guid: f32e6850701b47e4da6ea5786dd7d63b, type: 3}
+  - id: Dumbell
+    asset: {fileID: 3160034996792684262, guid: 833e5fbabe739a447bc5aa4face3261b, type: 3}
+  - id: Biceps
+    asset: {fileID: 319796752021842016, guid: 4bf4ee0b1559af4488862d2a9797768d, type: 3}
+  networkPrefabs: []
+  settings:
+    serverInstancingEnabled: 1
+    serverCapacitySetting: 0
+    serverInstanceCapacity: 50

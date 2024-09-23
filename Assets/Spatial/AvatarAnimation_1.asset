@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d36d341c4b284ca3b26c44859a9ecb1, type: 3}
+  m_Name: AvatarAnimation_1
+  m_EditorClassIdentifier: 
+  version: 0
+  sku: 66f0d87fc23d0d0c2a3d5232
+  packageName: PunchAnimation
+  thumbnail: {fileID: 2800000, guid: 3e7f6ea32b89ccc4cab07840cb9f677d, type: 3}
+  savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
+    type: 2}
+  prefab: {fileID: 319796752021842016, guid: f32e6850701b47e4da6ea5786dd7d63b, type: 3}
+  type: 0
