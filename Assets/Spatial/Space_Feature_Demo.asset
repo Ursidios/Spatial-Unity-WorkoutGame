@@ -29,8 +29,14 @@ MonoBehaviour:
     asset: {fileID: 3160034996792684262, guid: 833e5fbabe739a447bc5aa4face3261b, type: 3}
   - id: Biceps
     asset: {fileID: 319796752021842016, guid: 4bf4ee0b1559af4488862d2a9797768d, type: 3}
+  - id: Bow
+    asset: {fileID: 5654750158127249717, guid: 6eda7d2d8913ed244875a9533b2ef3be, type: 3}
+  - id: ArrowSac
+    asset: {fileID: 6879075637309914339, guid: a99ec4050db19ec458afb856252f5261, type: 3}
+  - id: Shoot
+    asset: {fileID: 1907305590822353834, guid: 8515c482c61d23a4bb249496f03707db, type: 3}
   networkPrefabs: []
   settings:
-    serverInstancingEnabled: 1
+    serverInstancingEnabled: 0
     serverCapacitySetting: 0
     serverInstanceCapacity: 50
