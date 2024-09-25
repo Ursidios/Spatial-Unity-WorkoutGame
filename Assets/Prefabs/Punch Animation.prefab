@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 319796752021842847}
   - component: {fileID: 319796752021842016}
-  m_Layer: 0
+  m_Layer: 31
   m_Name: Punch Animation
   m_TagString: Untagged
   m_Icon: {fileID: 0}

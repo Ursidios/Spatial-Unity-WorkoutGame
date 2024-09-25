@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 5112553535421337546}
   - component: {fileID: 3750260175004519839}
   - component: {fileID: 1096783977093253521}
-  m_Layer: 0
+  m_Layer: 31
   m_Name: 10490_arrow_v1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,7 +94,7 @@ GameObject:
   - component: {fileID: 8451698726686116498}
   - component: {fileID: 8036469919540474501}
   - component: {fileID: 9080409928353368867}
-  m_Layer: 0
+  m_Layer: 31
   m_Name: 10490_quiver_v1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -179,7 +179,7 @@ GameObject:
   - component: {fileID: 1577185022593045689}
   - component: {fileID: 8736338976691173909}
   - component: {fileID: 1203587606619374206}
-  m_Layer: 0
+  m_Layer: 31
   m_Name: 10490_arrow_v1 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -261,7 +261,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6879075637309914336}
   - component: {fileID: 6879075637309914339}
-  m_Layer: 0
+  m_Layer: 31
   m_Name: Arrow Sac
   m_TagString: Untagged
   m_Icon: {fileID: 0}

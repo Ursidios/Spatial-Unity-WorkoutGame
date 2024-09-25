@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1907305590822353829}
   - component: {fileID: 1907305590822353834}
-  m_Layer: 0
+  m_Layer: 31
   m_Name: BowAnimation
   m_TagString: Untagged
   m_Icon: {fileID: 0}

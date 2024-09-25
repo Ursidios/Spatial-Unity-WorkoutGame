@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5621e5ad1b9084f8bb66de8251cfd5a3, type: 3}
+  m_Name: Space_5
+  m_EditorClassIdentifier: 
+  version: 1
+  sku: 66f36e44c23d0d0c2a3d52b1
+  packageName: TojanExp
+  thumbnail: {fileID: 2800000, guid: ec6e61a8993a64290991cfc322ec43ea, type: 3}
+  savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
+    type: 2}
+  worldID: fn9rt0creyqlg0j1xlvfh
+  scene: {fileID: 102900000, guid: 5a4e4d605920f4afdbe35a0942b30555, type: 3}
+  csharpAssembly: {fileID: 5897886265953266890, guid: b03896a1eb80a4f489f771d3b48c11ac,
+    type: 3}
+  embeddedPackageAssets:
+  - id: Punch
+    asset: {fileID: 319796752021842016, guid: f32e6850701b47e4da6ea5786dd7d63b, type: 3}
+  - id: Dumbell
+    asset: {fileID: 3160034996792684262, guid: 833e5fbabe739a447bc5aa4face3261b, type: 3}
+  - id: Biceps
+    asset: {fileID: 319796752021842016, guid: 4bf4ee0b1559af4488862d2a9797768d, type: 3}
+  - id: Bow
+    asset: {fileID: 5654750158127249717, guid: 6eda7d2d8913ed244875a9533b2ef3be, type: 3}
+  - id: ArrowSac
+    asset: {fileID: 6879075637309914339, guid: a99ec4050db19ec458afb856252f5261, type: 3}
+  - id: Shoot
+    asset: {fileID: 1907305590822353834, guid: 8515c482c61d23a4bb249496f03707db, type: 3}
+  - id: Fall
+    asset: {fileID: 116032740064060777, guid: 6aa3e9f4ae7b7d148977d7f2a4d0e91e, type: 3}
+  - id: Throw
+    asset: {fileID: 7240112609023728200, guid: f2a362dfa6e265940ba370466739dc93, type: 3}
+  networkPrefabs: []
+  settings:
+    serverInstancingEnabled: 0
+    serverCapacitySetting: 0
+    serverInstanceCapacity: 16

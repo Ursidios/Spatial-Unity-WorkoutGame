@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Examples/Space_FeatureDemo/Scenes/FeatureDemo.unity
+    guid: 5a4e4d605920f4afdbe35a0942b30555
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: 254dde0768c06b24586f02f996561464,
       type: 2}

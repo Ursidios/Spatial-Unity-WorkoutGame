@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: Space_Feature_Demo
   m_EditorClassIdentifier: 
   version: 1
-  sku: 
-  packageName: Feature Demo
+  sku: 66f326c501f25c3fc795c019
+  packageName: TojanExperience
   thumbnail: {fileID: 2800000, guid: ec6e61a8993a64290991cfc322ec43ea, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
-  worldID: 
+  worldID: mhf5a90umxhjvsgae7cgj
   scene: {fileID: 102900000, guid: 5a4e4d605920f4afdbe35a0942b30555, type: 3}
   csharpAssembly: {fileID: 5897886265953266890, guid: b03896a1eb80a4f489f771d3b48c11ac,
     type: 3}
@@ -35,6 +35,10 @@ MonoBehaviour:
     asset: {fileID: 6879075637309914339, guid: a99ec4050db19ec458afb856252f5261, type: 3}
   - id: Shoot
     asset: {fileID: 1907305590822353834, guid: 8515c482c61d23a4bb249496f03707db, type: 3}
+  - id: Fall
+    asset: {fileID: 116032740064060777, guid: 6aa3e9f4ae7b7d148977d7f2a4d0e91e, type: 3}
+  - id: Throw
+    asset: {fileID: 7240112609023728200, guid: f2a362dfa6e265940ba370466739dc93, type: 3}
   networkPrefabs: []
   settings:
     serverInstancingEnabled: 0

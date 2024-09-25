@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 1145162518922967494}
   - component: {fileID: 1496020878604138729}
   - component: {fileID: 1976081739567824088}
-  m_Layer: 0
+  m_Layer: 31
   m_Name: 10490_bow_v1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -93,7 +93,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5654750158127249718}
   - component: {fileID: 5654750158127249717}
-  m_Layer: 0
+  m_Layer: 31
   m_Name: Bow
   m_TagString: Untagged
   m_Icon: {fileID: 0}

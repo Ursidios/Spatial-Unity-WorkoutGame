@@ -16,7 +16,47 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 588dc094b652e5b428c2f82cc00d2d42
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: f32e6850701b47e4da6ea5786dd7d63b
+    m_Address: Assets/Prefabs/Punch Animation.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 833e5fbabe739a447bc5aa4face3261b
+    m_Address: Assets/Prefabs/Dumbbell.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4bf4ee0b1559af4488862d2a9797768d
+    m_Address: Assets/Prefabs/Biceps Animation.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6eda7d2d8913ed244875a9533b2ef3be
+    m_Address: Assets/Prefabs/Bow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a99ec4050db19ec458afb856252f5261
+    m_Address: Assets/Prefabs/Arrow Sac.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8515c482c61d23a4bb249496f03707db
+    m_Address: Assets/Prefabs/BowAnimation.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6aa3e9f4ae7b7d148977d7f2a4d0e91e
+    m_Address: Assets/Prefabs/FallAnimation.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f2a362dfa6e265940ba370466739dc93
+    m_Address: Assets/Prefabs/ThrowWeight.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 4ebebb4a8519c80439d806bf3a1f52c1, type: 2}
   m_SchemaSet:

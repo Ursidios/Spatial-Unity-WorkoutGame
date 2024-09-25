@@ -5,9 +5,15 @@ public class AnimationPlayer : MonoBehaviour
 {
 
     public GameObject Arrow;
+    public GameObject Weight;
     public void StartPunchAnimation()
     {
         SpatialBridge.actorService.localActor.avatar.PlayEmote(AssetType.EmbeddedAsset, "Punch");
+    }
+    public void StartFallAnimation()
+    {
+        SpatialBridge.actorService.localActor.avatar.Jump();
+        SpatialBridge.actorService.localActor.avatar.PlayEmote(AssetType.EmbeddedAsset, "Fall");
     }
 
     public void StopAnimation()
@@ -31,7 +37,9 @@ public class AnimationPlayer : MonoBehaviour
     
     public void StartDumbbellAnimation()
     {
-        SpatialBridge.actorService.localActor.avatar.PlayEmote(AssetType.EmbeddedAsset, "Biceps");
+        //SpatialBridge.actorService.localActor.avatar.PlayEmote(AssetType.EmbeddedAsset, "Biceps");
+        SpatialBridge.actorService.localActor.avatar.PlayEmote(AssetType.EmbeddedAsset, "Throw");
+        Instantiate(Weight, SpatialBridge.actorService.localActor.avatar.position, SpatialBridge.actorService.localActor.avatar.rotation);
     }
 
     public void ExitHoldDumbbell()
@@ -48,4 +56,5 @@ public class AnimationPlayer : MonoBehaviour
         SpatialBridge.actorService.localActor.avatar.PlayEmote(AssetType.EmbeddedAsset, "Shoot");
         Instantiate(Arrow, SpatialBridge.actorService.localActor.avatar.position, SpatialBridge.actorService.localActor.avatar.rotation);
     }
+
 }
